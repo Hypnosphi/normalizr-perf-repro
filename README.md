@@ -1,1 +1,4 @@
-# normalizr-perf-repro
+```sh
+yarn
+yarn benchmark
+```

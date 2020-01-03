@@ -1,0 +1,14 @@
+{
+  "name": "normalizr-perf-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Hypnosphi/normalizr-perf-repro.git",
+  "author": "Filipp Riabchun <filipp.riabchun@jetbrains.com>",
+  "license": "MIT",
+  "scripts": {
+    "benchmark": "node benchmark.js"
+  },
+  "dependencies": {
+    "normalizr": "3.4.1"
+  }
+}
