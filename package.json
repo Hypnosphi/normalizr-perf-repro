@@ -9,6 +9,6 @@
     "benchmark": "node benchmark.js"
   },
   "dependencies": {
-    "normalizr": "3.4.1"
+    "normalizr": "3.3.0"
   }
 }
